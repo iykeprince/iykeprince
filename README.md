@@ -1,17 +1,14 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Ikechukwu%20Israel%20Friday&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Senior%20Backend%20%26%20Full%20Stack%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Ikechukwu Israel Friday — Senior Backend & Full Stack Engineer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Ikechukwu%20Israel%20Friday&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Ikechukwu Israel Friday — AI Engineer · Full Stack Engineer"/>
 <div align="center">
-
-### Backend Architecture · Distributed Systems · Engineering Leadership
-
-![Backend](https://img.shields.io/badge/Backend-NestJS%20%7C%20Node%20%7C%20Java%20Spring-E0234E?style=for-the-badge&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP%20%7C%20Serverless-FF9900?style=for-the-badge&logoColor=white)
-![Role](https://img.shields.io/badge/Role-Head%20of%20Software%20Engineering-0A66C2?style=for-the-badge&logoColor=white)
+### LLM Applications · RAG & Agentic AI · Cloud-Native Systems
+ 
+![AI](https://img.shields.io/badge/AI-LLMs%20%7C%20RAG%20%7C%20LangGraph-8A2BE2?style=for-the-badge&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Python%20%7C%20React%20%7C%20Node%20%7C%20TypeScript-3178C6?style=for-the-badge&logoColor=white)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logoColor=white)
 ![Location](https://img.shields.io/badge/Based%20in-United%20Kingdom-2C5364?style=for-the-badge&logoColor=white)
-
+ 
 </div>
-
 ---
 
 ## 👋 About Me
