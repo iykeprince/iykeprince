@@ -18,7 +18,7 @@
 
 I'm a **Software & AI Engineer** for whom delivering a project's requirements is non-negotiable. I build **scalable systems** and integrate **AI-driven solutions** into real-world business problems — from retrieval-augmented assistants and agentic workflows to the APIs, data layers and cloud infrastructure that make them production-ready.
 
-With **8+ years** of engineering experience, I have a proven track record of **customising agentic AI models**, automating onboarding and training platforms with LLMs, and delivering robust API and systems integration in **Python, TypeScript and the cloud**. I can lead and follow, have managed engineering teams, and know how to see a project through every stage of execution.
+With **5+ years** of engineering experience, I have a proven track record of **customising agentic AI models**, automating onboarding and training platforms with LLMs, and delivering robust API and systems integration in **Python, TypeScript and the cloud**. I can lead and follow, have managed engineering teams, and know how to see a project through every stage of execution.
 
 **Recent impact:**
 - 🤖 Built **RAG-powered AI assistants** for personalised, context-aware learning — **+45% user engagement**
