@@ -12,7 +12,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 
 ## 👋 About Me
 
@@ -52,7 +52,7 @@ I work across **React / Next.js**, **Node.js (NestJS)** and **Python (FastAPI)**
 - **B.Sc. Computer Science** · Nnamdi Azikiwe University
 - **AWS Certified Cloud Practitioner**
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 
 ## ⚡ Core Stack
 
@@ -79,7 +79,7 @@ I work across **React / Next.js**, **Node.js (NestJS)** and **Python (FastAPI)**
 | **Messaging** | Kafka, RabbitMQ, AWS SQS | Reliable, decoupled microservices and background processing |
 | **Cloud & DevOps** | AWS, GCP, Docker, Kubernetes, Terraform, GitHub Actions | Automated, repeatable deployments and infrastructure-as-code |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 
 ### 🌍 Products I've shipped
 
@@ -92,7 +92,7 @@ I work across **React / Next.js**, **Node.js (NestJS)** and **Python (FastAPI)**
 
 > 💼 Most of my production work lives in private repositories — happy to walk through the architecture in an interview.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 
 ## 🛠️ Skills & Technologies
 
@@ -191,7 +191,7 @@ I work across **React / Next.js**, **Node.js (NestJS)** and **Python (FastAPI)**
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 
 ## 📊 GitHub Stats
 
@@ -203,7 +203,7 @@ I work across **React / Next.js**, **Node.js (NestJS)** and **Python (FastAPI)**
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt=""/>
 
 ## 🤝 Let's Connect
 
