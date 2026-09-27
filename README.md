@@ -3,7 +3,7 @@
 
 <div align="center">
 
-### AI-Powered Products · LLMs, RAG & Agents · Built on a Full Stack Foundation
+### AI-Powered Products · LLMs, MCP, RAG & Agents · Built on a Full Stack Foundation
 
 ![AI](https://img.shields.io/badge/AI-LLMs%20%7C%20RAG%20%7C%20LangGraph-8A2BE2?style=for-the-badge&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-Python%20%7C%20React%20%7C%20Node%20%7C%20TypeScript-3178C6?style=for-the-badge&logoColor=white)
@@ -16,27 +16,9 @@
 
 ## 👋 About Me
 
-I'm a **Full Stack AI Engineer** for whom delivering a project's requirements is non-negotiable. I build **AI-powered products** — RAG assistants, agentic workflows and LLM-driven automation — and I have the **full stack foundation** to take them all the way to production: the interface, the API, the data layer and the cloud.
+I'm a **Full Stack AI Engineer** for whom delivering a project's requirements is non-negotiable. I build **AI-powered products** — MCP/RAG assistants, agentic workflows and LLM-driven automation and I have the **full stack foundation** to take them all the way to production: the interface, the API, the data layer and the cloud.
 
 I work across **React / Next.js**, **Node.js (NestJS)** and **Python (FastAPI)**, with **PostgreSQL, MongoDB and vector databases** for data and **AWS** for scale. That foundation is what makes the AI work real: I don't just prototype models, I ship them inside products people use. I can lead and follow, have managed engineering teams, and see projects through every stage of execution.
-
-**Recent impact:**
-- 🤖 Built **RAG-powered AI assistants** for personalised, context-aware learning — **+45% user engagement**
-- ✍️ Shipped an LLM-driven training platform (**Mistral, GPT-4**) — **60% less** manual content creation
-- 📈 Led engineers building a **cloud-native learning platform** in Python & Node.js — contributing to **£600k revenue growth**
-- 💳 Built scalable **Node.js backends for high-volume loan management**, using AWS SQS & Serverless to cut server costs by **25%**
-- ⚙️ Docker, Kubernetes and GitHub Actions CI/CD — **35% less downtime** and **40% fewer bugs**
-
-### 🧭 What I Bring
-
-| | |
-|:--|:--|
-| 🤖 **LLM Features** | RAG pipelines, agents, prompt & tool design |
-| 🔎 **Vector Search** | Semantic retrieval with Pinecone and pgvector |
-| 🧱 **End-to-End Ownership** | UI → API → database → deployment |
-| 🧑‍💻 **Typed Codebases** | Maintainable TypeScript and Python |
-| ⚡ **Event-Driven Systems** | Microservices with Kafka and RabbitMQ |
-| ✅ **Quality & Leadership** | CI/CD, automated testing, mentoring engineers |
 
 ### 🎯 Open To
 
