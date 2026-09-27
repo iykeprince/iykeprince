@@ -7,7 +7,6 @@
 
 ![AI](https://img.shields.io/badge/AI-LLMs%20%7C%20RAG%20%7C%20LangGraph-8A2BE2?style=for-the-badge&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-Python%20%7C%20React%20%7C%20Node%20%7C%20TypeScript-3178C6?style=for-the-badge&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-14B8A6?style=for-the-badge&logoColor=white)
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logoColor=white)
 ![Location](https://img.shields.io/badge/Based%20in-United%20Kingdom-2C5364?style=for-the-badge&logoColor=white)
 
@@ -19,7 +18,7 @@
 
 I'm a **Full Stack AI Engineer** for whom delivering a project's requirements is non-negotiable. I build **AI-powered products** — RAG assistants, agentic workflows and LLM-driven automation — and I have the **full stack foundation** to take them all the way to production: the interface, the API, the data layer and the cloud.
 
-With **8+ years** of engineering behind me, I work across **React / Next.js**, **Node.js (NestJS)** and **Python (FastAPI)**, with **PostgreSQL, MongoDB and vector databases** for data and **AWS** for scale. That foundation is what makes the AI work real: I don't just prototype models, I ship them inside products people use. I can lead and follow, have managed engineering teams, and see projects through every stage of execution.
+I work across **React / Next.js**, **Node.js (NestJS)** and **Python (FastAPI)**, with **PostgreSQL, MongoDB and vector databases** for data and **AWS** for scale. That foundation is what makes the AI work real: I don't just prototype models, I ship them inside products people use. I can lead and follow, have managed engineering teams, and see projects through every stage of execution.
 
 **Recent impact:**
 - 🤖 Built **RAG-powered AI assistants** for personalised, context-aware learning — **+45% user engagement**
