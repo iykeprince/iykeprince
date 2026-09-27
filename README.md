@@ -5,7 +5,7 @@
 
 ### AI-Powered Products · LLMs, MCP, RAG & Agents · Built on a Full Stack Foundation
 
-![AI](https://img.shields.io/badge/AI-LLMs%20%7C%20RAG%20%7C%20LangGraph-8A2BE2?style=for-the-badge&logoColor=white)
+![AI](https://img.shields.io/badge/AI-LLMs%20%7C%20MCP%20%7C%20RAG%20%7C%20LangGraph-8A2BE2?style=for-the-badge&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-Python%20%7C%20React%20%7C%20Node%20%7C%20TypeScript-3178C6?style=for-the-badge&logoColor=white)
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logoColor=white)
 ![Location](https://img.shields.io/badge/Based%20in-United%20Kingdom-2C5364?style=for-the-badge&logoColor=white)
@@ -16,9 +16,27 @@
 
 ## 👋 About Me
 
-I'm a **Full Stack AI Engineer** for whom delivering a project's requirements is non-negotiable. I build **AI-powered products** — MCP/RAG assistants, agentic workflows and LLM-driven automation and I have the **full stack foundation** to take them all the way to production: the interface, the API, the data layer and the cloud.
+I'm a **Full Stack AI Engineer** for whom delivering a project's requirements is non-negotiable. I build **AI-powered products** - MCP/RAG assistants, agentic workflows and LLM-driven automation and I have the **full stack foundation** to take them all the way to production: the interface, the API, the data layer and the cloud.
 
 I work across **React / Next.js**, **Node.js (NestJS)** and **Python (FastAPI)**, with **PostgreSQL, MongoDB and vector databases** for data and **AWS** for scale. That foundation is what makes the AI work real: I don't just prototype models, I ship them inside products people use. I can lead and follow, have managed engineering teams, and see projects through every stage of execution.
+
+**Recent impact:**
+- 🤖 Built **RAG-powered AI assistants** for personalised, context-aware learning — **+45% user engagement**
+- ✍️ Shipped an LLM-driven training platform (**Mistral, GPT-4**) — **60% less** manual content creation
+- 📈 Led engineers building a **cloud-native learning platform** in Python & Node.js — contributing to **£600k revenue growth**
+- 💳 Built scalable **Node.js backends for high-volume loan management**, using AWS SQS & Serverless to cut server costs by **25%**
+- ⚙️ Docker, Kubernetes and GitHub Actions CI/CD — **35% less downtime** and **40% fewer bugs**
+
+### 🧭 What I Bring
+
+| | |
+|:--|:--|
+| 🤖 **LLM Features** | RAG pipelines, agents, MCP servers & tool design |
+| 🔎 **Vector Search** | Semantic retrieval with Pinecone and pgvector |
+| 🧱 **End-to-End Ownership** | UI → API → database → deployment |
+| 🧑‍💻 **Typed Codebases** | Maintainable TypeScript and Python |
+| ⚡ **Event-Driven Systems** | Microservices with Kafka and RabbitMQ |
+| ✅ **Quality & Leadership** | CI/CD, automated testing, mentoring engineers |
 
 ### 🎯 Open To
 
@@ -53,7 +71,7 @@ I work across **React / Next.js**, **Node.js (NestJS)** and **Python (FastAPI)**
 
 | Layer | What I use | What I deliver |
 |---|---|---|
-| **AI / LLM** | OpenAI, Mistral, LangGraph, LangChain, AI SDK | RAG assistants, agents and LLM automation inside real products |
+| **AI / LLM** | OpenAI, Mistral, LangGraph, LangChain, MCP, AI SDK | RAG assistants, MCP-connected agents and LLM automation inside real products |
 | **Vector & Retrieval** | pgvector, Pinecone, embeddings | Grounded, context-aware answers over company data |
 | **Frontend** | React, Next.js, Tailwind, shadcn/ui, Redux | Fast, responsive UIs with server rendering and clean state management |
 | **Backend** | Node.js, NestJS, Python, FastAPI, Java Spring | REST & GraphQL APIs, auth, payments and third-party integrations |
@@ -85,6 +103,7 @@ I work across **React / Next.js**, **Node.js (NestJS)** and **Python (FastAPI)**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?style=flat-square&logo=mistralai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-8A2BE2?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -179,7 +198,10 @@ I work across **React / Next.js**, **Node.js (NestJS)** and **Python (FastAPI)**
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iykeprince/iykeprince/main/metrics.svg" alt="GitHub metrics for iykeprince"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iykeprince&theme=tokyonight" width="100%" alt="GitHub profile details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iykeprince&theme=tokyonight" height="170" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iykeprince&theme=tokyonight" height="170" alt="Most committed languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=iykeprince&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
