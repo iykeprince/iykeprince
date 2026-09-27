@@ -27,35 +27,30 @@ I work across **React / Next.js**, **Node.js (NestJS)** and **Python (FastAPI)**
 - 💳 Built scalable **Node.js backends for high-volume loan management**, using AWS SQS & Serverless to cut server costs by **25%**
 - ⚙️ Docker, Kubernetes and GitHub Actions CI/CD — **35% less downtime** and **40% fewer bugs**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🧭 What I Bring
 
-**🧭 What I bring to a team**
-- LLM features: RAG, agents, prompt & tool design
-- Vector search with **Pinecone** and **pgvector**
-- Full ownership of features: UI → API → DB → deploy
-- Typed codebases in **TypeScript** and **Python**
-- Event-driven services with **Kafka** & **RabbitMQ**
-- CI/CD, testing and mentoring engineers
+| | |
+|:--|:--|
+| 🤖 **LLM Features** | RAG pipelines, agents, prompt & tool design |
+| 🔎 **Vector Search** | Semantic retrieval with Pinecone and pgvector |
+| 🧱 **End-to-End Ownership** | UI → API → database → deployment |
+| 🧑‍💻 **Typed Codebases** | Maintainable TypeScript and Python |
+| ⚡ **Event-Driven Systems** | Microservices with Kafka and RabbitMQ |
+| ✅ **Quality & Leadership** | CI/CD, automated testing, mentoring engineers |
 
-</td>
-<td width="50%" valign="top">
+### 🎯 Open To
 
-**🎯 Open to**
-- AI Engineer / Applied AI Engineer roles
-- Full Stack AI Engineer roles
-- Senior Full Stack roles on AI-powered products
-- UK-based, hybrid or remote
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-8A2BE2?style=flat-square)
+![Applied AI Engineer](https://img.shields.io/badge/Applied%20AI%20Engineer-6366F1?style=flat-square)
+![Full Stack AI Engineer](https://img.shields.io/badge/Full%20Stack%20AI%20Engineer-3178C6?style=flat-square)
+![Senior Full Stack](https://img.shields.io/badge/Senior%20Full%20Stack%20%28AI%20Products%29-14B8A6?style=flat-square)
+![UK · Hybrid · Remote](https://img.shields.io/badge/UK%20%C2%B7%20Hybrid%20%C2%B7%20Remote-2C5364?style=flat-square)
 
-🎓 **M.Sc. Cybersecurity** — University of Sunderland<br/>
-🎓 **B.Sc. Computer Science** — Nnamdi Azikiwe University
+### 🎓 Education & Certification
 
-📫 **[ikechukwufriday96@gmail.com](mailto:ikechukwufriday96@gmail.com)**
-
-</td>
-</tr>
-</table>
+- **M.Sc. Cybersecurity** · University of Sunderland
+- **B.Sc. Computer Science** · Nnamdi Azikiwe University
+- **AWS Certified Cloud Practitioner**
 
 ---
 
