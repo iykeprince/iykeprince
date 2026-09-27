@@ -1,10 +1,11 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Ikechukwu%20Israel%20Friday&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Ikechukwu Israel Friday — Full Stack Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Ikechukwu%20Israel%20Friday&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Ikechukwu Israel Friday — Full Stack AI Engineer"/>
 
 <div align="center">
 
-### End-to-End Product Engineering · Scalable APIs · Cloud-Native Systems
+### AI-Powered Products · LLMs, RAG & Agents · Built on a Full Stack Foundation
 
+![AI](https://img.shields.io/badge/AI-LLMs%20%7C%20RAG%20%7C%20LangGraph-8A2BE2?style=for-the-badge&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-Python%20%7C%20React%20%7C%20Node%20%7C%20TypeScript-3178C6?style=for-the-badge&logoColor=white)
 ![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-14B8A6?style=for-the-badge&logoColor=white)
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logoColor=white)
@@ -16,36 +17,36 @@
 
 ## 👋 About Me
 
-I'm a **Full Stack Engineer** for whom delivering a project's requirements is non-negotiable. For **8+ years** I've taken products from idea to production — designing the database, building the API, shipping the interface and running it in the cloud.
+I'm a **Full Stack AI Engineer** for whom delivering a project's requirements is non-negotiable. I build **AI-powered products** — RAG assistants, agentic workflows and LLM-driven automation — and I have the **full stack foundation** to take them all the way to production: the interface, the API, the data layer and the cloud.
 
-My day-to-day stack is **React / Next.js** on the front end, **Node.js (NestJS)** and **Python (FastAPI)** on the back end, **PostgreSQL and MongoDB** for data, and **AWS** for everything that needs to scale. I also bring hands-on experience integrating **AI features (LLMs, RAG)** into real products. I can lead and follow, have managed engineering teams, and know how to see a project through every stage of execution.
+With **8+ years** of engineering behind me, I work across **React / Next.js**, **Node.js (NestJS)** and **Python (FastAPI)**, with **PostgreSQL, MongoDB and vector databases** for data and **AWS** for scale. That foundation is what makes the AI work real: I don't just prototype models, I ship them inside products people use. I can lead and follow, have managed engineering teams, and see projects through every stage of execution.
 
 **Recent impact:**
+- 🤖 Built **RAG-powered AI assistants** for personalised, context-aware learning — **+45% user engagement**
+- ✍️ Shipped an LLM-driven training platform (**Mistral, GPT-4**) — **60% less** manual content creation
 - 📈 Led engineers building a **cloud-native learning platform** in Python & Node.js — contributing to **£600k revenue growth**
 - 💳 Built scalable **Node.js backends for high-volume loan management**, using AWS SQS & Serverless to cut server costs by **25%**
-- ⚡ Automated onboarding and training workflows — **50% faster** user onboarding
 - ⚙️ Docker, Kubernetes and GitHub Actions CI/CD — **35% less downtime** and **40% fewer bugs**
-- 🤖 Shipped **RAG-powered assistant features** that lifted user engagement by **45%**
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **🧭 What I bring to a team**
+- LLM features: RAG, agents, prompt & tool design
+- Vector search with **Pinecone** and **pgvector**
 - Full ownership of features: UI → API → DB → deploy
-- Clean, typed codebases in **TypeScript** and **Python**
-- REST & **GraphQL** API design, auth and integrations
+- Typed codebases in **TypeScript** and **Python**
 - Event-driven services with **Kafka** & **RabbitMQ**
-- CI/CD, testing and code-review culture
-- Leading and mentoring engineers
+- CI/CD, testing and mentoring engineers
 
 </td>
 <td width="50%" valign="top">
 
 **🎯 Open to**
-- Full Stack Engineer (Senior / Lead)
-- Backend-leaning Full Stack roles
-- Product engineering roles in fintech, edtech & SaaS
+- AI Engineer / Applied AI Engineer roles
+- Full Stack AI Engineer roles
+- Senior Full Stack roles on AI-powered products
 - UK-based, hybrid or remote
 
 🎓 **M.Sc. Cybersecurity** — University of Sunderland<br/>
@@ -72,16 +73,17 @@ My day-to-day stack is **React / Next.js** on the front end, **Node.js (NestJS)*
 
 </div>
 
-### 🧱 How I build across the stack
+### 🧱 How I build AI products, end to end
 
 | Layer | What I use | What I deliver |
 |---|---|---|
+| **AI / LLM** | OpenAI, Mistral, LangGraph, LangChain, AI SDK | RAG assistants, agents and LLM automation inside real products |
+| **Vector & Retrieval** | pgvector, Pinecone, embeddings | Grounded, context-aware answers over company data |
 | **Frontend** | React, Next.js, Tailwind, shadcn/ui, Redux | Fast, responsive UIs with server rendering and clean state management |
 | **Backend** | Node.js, NestJS, Python, FastAPI, Java Spring | REST & GraphQL APIs, auth, payments and third-party integrations |
 | **Data** | PostgreSQL, MongoDB, Redis, Prisma | Well-modelled schemas, safe migrations, caching and query performance |
 | **Messaging** | Kafka, RabbitMQ, AWS SQS | Reliable, decoupled microservices and background processing |
 | **Cloud & DevOps** | AWS, GCP, Docker, Kubernetes, Terraform, GitHub Actions | Automated, repeatable deployments and infrastructure-as-code |
-| **AI features** | OpenAI, LangGraph, RAG, pgvector | Assistants and smart features built into real products |
 
 ---
 
@@ -172,15 +174,35 @@ Packages a **Python/Flask prediction API** into a container and deploys it to **
 
 | Product | What it is | My work |
 |---|---|---|
+| [**Keysha.ai**](https://keysha.ai) | AI assistant for scheduling & time management | Full-stack product with AI-driven automation |
 | [**DailyBills**](https://dailybills.com.ng) | Bill payments, airtime top-ups & digital services | Full-stack platform build, payments and integrations |
 | [**GetKele**](https://getkele.com) | Fintech app for money transfers & bill payments | Secure transaction processing and user-facing app |
-| [**Keysha.ai**](https://keysha.ai) | AI assistant for scheduling & time management | Full-stack product with AI-driven automation |
+| **ML DDoS IDS** | Machine-learning intrusion detection (Slowloris) | Model + real-time alerting for security analysts |
 
 > 💼 Most of my production work lives in private repositories — happy to walk through the architecture in an interview.
 
 ---
 
 ## 🛠️ Skills & Technologies
+
+<details open>
+<summary><b>AI & LLM Engineering</b></summary>
+<br/>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?style=flat-square&logo=mistralai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-8A2BE2?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Cloudflare AI](https://img.shields.io/badge/Cloudflare%20AI-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</details>
 
 <details open>
 <summary><b>Frontend</b></summary>
@@ -258,19 +280,6 @@ Packages a **Python/Flask prediction API** into a container and deploys it to **
 
 </details>
 
-<details>
-<summary><b>AI Integration</b></summary>
-<br/>
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
-
-</details>
-
 ---
 
 ## 📊 GitHub Stats
@@ -293,7 +302,7 @@ Packages a **Python/Flask prediction API** into a container and deploys it to **
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikechukwufriday96@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iykeprince)
 
-**Hiring a Full Stack Engineer? I'd love to hear about it.**
+**Hiring for an AI or Full Stack role? I'd love to hear about it.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" alt=""/>
 
